@@ -11,5 +11,8 @@ Original contributions:
   ii)  Powering system for the stepper motors  
   iii) Micro stepping  
 
+
+<img src="/imagini/full.jpg">
+
   
 
