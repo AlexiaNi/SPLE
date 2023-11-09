@@ -9,7 +9,8 @@ SPEL – Solar Powered Laser Engraver is a robot which can perform small to medi
 Original contributions:  
   i)   Linear motion system  
   ii)  Powering system for the stepper motors  
-  iii) Micro stepping  
+  iii) Charge system for the LiPo batteries
+  iv)  Micro stepping  
 
 
 <img src="/imagini/full.jpg">
