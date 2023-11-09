@@ -14,5 +14,11 @@ Original contributions:
 
 <img src="/imagini/full.jpg">
 
+**All the .stl files in the /imagini folder are fully designed by me, measuremeents are taken from the Universal Gantry Plate. Imported files used in the full CAD are not included in the repository (ex: aluminum extrusion, stepper motors)**
+
+
+<img src="/imagini/CAD.jpg">
+
+
   
 
