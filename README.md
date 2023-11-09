@@ -20,6 +20,15 @@ Original contributions:
 
 <img src="/imagini/CAD.JPG">
 
+# Technologies Used
+
+3D Design - Rhinoceros 4  
+3D Printing - Prusa Software  
+**grbl** library for Arduino, **LaserGRBL UI**  
+
+# Distinctions
+Robochallanage Romania International Phase - Freestyle Showcase Kids **3rd prize**
+
 
   
 
