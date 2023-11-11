@@ -27,8 +27,9 @@ Original contributions:
 **grbl** library for Arduino, **LaserGRBL UI**  
 
 # Distinctions
-Robochallanage Romania International Phase - Freestyle Showcase Kids **3rd prize**
+Robochallanage Romania International Phase - Freestyle Showcase Kids **3rd prize**  
+TeChallenge Romania, organizat in cadrul Universitatii Politehnica din Bucuresti - locul 1  
 
-
-  
-
+# Linkuri utile  
+https://techallenge.upb.ro/  
+https://robochallenge.ro/standings/4  
